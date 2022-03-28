@@ -1,4 +1,4 @@
-# Projeto BlueFlix!
+# Projeto BlueFlix! Feito imitando alguns serviços de streaming como Netflix e HBO.
 
 ## Site criado utilizando algumas ferramentas e linguagens front-end.<br>
 
